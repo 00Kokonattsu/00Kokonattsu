@@ -1,11 +1,10 @@
 ![00Kokonattsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=00Kokonattsu&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00Kokonattsu&langs_count=10&layout=compact&theme=cobalt)
-![00Kokonattsu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=00Kokonattsu&layout=compact)
 
 
 - 👋 Hi, I’m @00Kokonattsu
 - 👀 I’m interested in Kamenrider and programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,HTML, and CSS
 - 💞️ I’m looking to collaborate with my classmate
 - 📫 How to reach me ...
 
