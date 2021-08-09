@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @00Kokonattsu
 - 👀 I’m interested in Kamenrider and programming
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate with my classmate
 - 📫 How to reach me ...
 
 <!---
