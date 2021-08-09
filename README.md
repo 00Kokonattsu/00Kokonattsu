@@ -1,3 +1,5 @@
+[![00Kokonattsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=00Kokonattsu)]
+
 - 👋 Hi, I’m @00Kokonattsu
 - 👀 I’m interested in Kamenrider and programming
 - 🌱 I’m currently learning Java
